@@ -1,0 +1,13 @@
+Package: rfmPackage
+Type: Package
+Title: This package is used for customer analysis.
+Version: 0.1.0
+Author: Francisco (Paco) Arrieta
+Maintainer: Francisco (Paco) Arrieta <f.jar@outlook.com>
+Description: This is an frm Package
+    It is useful for analizing customers through the RFM lense (Recency, Frequency, Monetary)
+Depends: data.table, Hmisc, lubridate
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
